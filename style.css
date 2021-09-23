@@ -1,0 +1,27 @@
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.if-green {
+    background-color: green;
+}
+
+label {
+    font-weight: bold;
+    font-family: Calibri;
+}
+
+p {
+    font-weight: bold;
+    font-family: Calibri;
+}
+
+.faves {
+    font-weight: bolder;
+    font-family: Calibri;
+    
+}
